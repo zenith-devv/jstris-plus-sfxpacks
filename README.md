@@ -1,1 +1,1 @@
-Repo for the files I want to use somewhere.
+A repo of my custom sound packs for Jstris+ extension.
