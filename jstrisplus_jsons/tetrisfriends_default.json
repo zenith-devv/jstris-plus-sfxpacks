@@ -1,0 +1,125 @@
+{
+  "name": "Tetris Friends Sound Pack",
+  "harddrop": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_friends/default/fx_hrddp.mp3",
+  "comboTones": [
+    null, "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_friends/default/fx_combo01.mp3", 
+    "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_friends/default/fx_combo02.mp3", 
+    "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_friends/default/fx_combo03.mp3", 
+    "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_friends/default/fx_combo04.mp3", 
+    "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_friends/default/fx_combo05.mp3", 
+    "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_friends/default/fx_combo06.mp3", 
+    "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_friends/default/fx_combo07.mp3"
+  ],
+  "hold": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_friends/default/fx_hold.mp3",
+  "move": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_friends/default/fx_fall.mp3",
+  "rotate": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_friends/default/fx_rta01.mp3",
+  "lock": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_friends/default/fx_hrddp.mp3",
+  "died": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_friends/default/fx_lose.mp3",
+  "ready": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_friends/default/fx_tick.mp3",
+  "go": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_friends/default/fx_go.mp3",
+  "golive": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_friends/default/fx_go.mp3",
+  "scoring": {
+	  "CLEAR1": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_friends/default/fx_lne01.mp3",
+	  "CLEAR2": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_friends/default/fx_lne02.mp3",
+	  "CLEAR3": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_friends/default/fx_lne03.mp3",
+	  "CLEAR4": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_friends/default/fx_lne04.mp3",
+	  "TSPIN_MINI": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_friends/default/fx_tspin.mp3",
+	  "TSPIN": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_friends/default/fx_tspin.mp3",
+	  "TSPIN_MINI_SINGLE": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_friends/default/tftspin1.mp3",
+	  "TSPIN_SINGLE": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_friends/default/tftspin1.mp3",
+	  "TSPIN_DOUBLE": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_friends/default/tftspin2.mp3",
+	  "TSPIN_TRIPLE": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_friends/default/tftspin3.mp3",
+	  "PERFECT_CLEAR": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_friends/default/fx_win.mp3"
+  },
+  "specialScoring": {
+    
+	"TSPIN_MINI_SINGLE": [
+      {
+		  "url": "https://ecdldaiiere.github.io/Eddiez-Soundz/8bit_tspinsingle.mp3",
+		  "b2b": false,
+		  "override": false      
+      },
+      {
+        "url": "https://ecdldaiiere.github.io/Eddiez-Soundz/8bit_b2btspin.mp3",
+        "b2b": true,
+        "override": false
+      }
+    ],
+    "TSPIN_MINI": [
+      {
+		  "url": "https://ecdldaiiere.github.io/Eddiez-Soundz/8bit_tspinmini.mp3",
+		  "b2b": false,
+		  "override": false      
+      },
+      {
+        "url": "https://ecdldaiiere.github.io/Eddiez-Soundz/8bit_b2btspin.mp3",
+        "b2b": true,
+        "override": false
+      }
+    ],
+    "TSPIN_SINGLE": [
+      {
+		  "url": "https://ecdldaiiere.github.io/Eddiez-Soundz/8bit_tspinsingle.mp3",
+		  "b2b": false,
+		  "override": false
+      },
+      {
+        "url": "https://ecdldaiiere.github.io/Eddiez-Soundz/8bit_b2btspin.mp3",
+        "b2b": true,
+        "override": false
+      }
+    ],
+    "TSPIN_DOUBLE": [
+      {
+		  "url": "https://ecdldaiiere.github.io/Eddiez-Soundz/8bit_tspindouble.mp3",
+		  "b2b": false,
+		  "override": false
+      },
+      {
+        "url": "https://ecdldaiiere.github.io/Eddiez-Soundz/8bit_b2btspin.mp3",
+        "b2b": true,
+        "override": false
+      }
+    ],
+    "TSPIN_TRIPLE": [
+      {
+		  "url": "https://ecdldaiiere.github.io/Eddiez-Soundz/8bit_tspintriple.mp3",
+		  "b2b": false,
+		  "override": false
+      },
+      {
+        "url": "https://ecdldaiiere.github.io/Eddiez-Soundz/8bit_b2btspin.mp3",
+        "b2b": true,
+        "override": false
+      }
+    ],
+	"CLEAR4": [
+      {
+		  "url": "https://ecdldaiiere.github.io/Eddiez-Soundz/8bit_clear4.mp3",
+		  "b2b": false,
+		  "override": false
+      },
+      {
+        "url": "https://ecdldaiiere.github.io/Eddiez-Soundz/8bit_b2btetris.mp3",
+        "b2b": true,
+        "override": false
+      }
+    ],
+    "CLEAR3": [
+      {
+		  "url": "https://ecdldaiiere.github.io/Eddiez-Soundz/8bit_clear3.mp3",
+		  "b2b": false,
+		  "override": false
+
+      }
+    ],
+    "CLEAR2": [
+      {
+		  "url": "https://ecdldaiiere.github.io/Eddiez-Soundz/8bit_clear2.mp3",
+		  "b2b": false,
+		  "override": false
+
+      }
+    ]
+  }
+}

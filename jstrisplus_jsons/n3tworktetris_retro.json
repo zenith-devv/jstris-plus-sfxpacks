@@ -1,0 +1,59 @@
+{
+  "name": "Retro Sound Pack",
+  "harddrop": "https://zenith-devv.github.io/jstris-plus-sfxpacks/n3twork_tetris/retro/Retro_Lock.wav",
+  "hold": "https://zenith-devv.github.io/jstris-plus-sfxpacks/n3twork_tetris/retro/Retro_Hold.wav",
+  "lock": "https://zenith-devv.github.io/jstris-plus-sfxpacks/n3twork_tetris/retro/Retro_Lock.wav",
+  "died": "https://zenith-devv.github.io/jstris-plus-sfxpacks/n3twork_tetris/retro/Retro_GameOver_Lose.wav",
+  "golive": "https://zenith-devv.github.io/jstris-plus-sfxpacks/n3twork_tetris/retro/go.wav",
+  "scoring": {
+	  "CLEAR1": "https://zenith-devv.github.io/jstris-plus-sfxpacks/n3twork_tetris/retro/Retro_Clear1.wav",
+	  "CLEAR2": "https://zenith-devv.github.io/jstris-plus-sfxpacks/n3twork_tetris/retro/Retro_Clear2.wav",
+	  "CLEAR3": "https://zenith-devv.github.io/jstris-plus-sfxpacks/n3twork_tetris/retro/Retro_Clear3.wav",
+	  "CLEAR4": "https://zenith-devv.github.io/jstris-plus-sfxpacks/n3twork_tetris/retro/Retro_Clear4.wav",
+	  "TSPIN_MINI": "https://zenith-devv.github.io/jstris-plus-sfxpacks/n3twork_tetris/retro/Retro_TSpin.wav",
+	  "TSPIN": "https://zenith-devv.github.io/jstris-plus-sfxpacks/n3twork_tetris/retro/Retro_TSpin.wav",
+	  "TSPIN_MINI_SINGLE": "https://zenith-devv.github.io/jstris-plus-sfxpacks/n3twork_tetris/retro/retrotspin1.wav",
+	  "TSPIN_SINGLE": "https://zenith-devv.github.io/jstris-plus-sfxpacks/n3twork_tetris/retro/retrotspin1.wav",
+	  "TSPIN_DOUBLE": "https://zenith-devv.github.io/jstris-plus-sfxpacks/n3twork_tetris/retro/retrotspin2.wav",
+	  "TSPIN_TRIPLE": "https://zenith-devv.github.io/jstris-plus-sfxpacks/n3twork_tetris/retro/retrotspin3.wav",
+	  "PERFECT_CLEAR": "https://zenith-devv.github.io/jstris-plus-sfxpacks/n3twork_tetris/retro/Retro_ClearAll.wav"
+  },
+  "specialScoring": {
+    
+	"TSPIN_MINI_SINGLE": [
+      {
+		  "url": "https://zenith-devv.github.io/jstris-plus-sfxpacks/n3twork_tetris/retro/retrob2btspin1.wav",
+		  "b2b": true,
+		  "override": true      
+      }
+    ],
+    "TSPIN_SINGLE": [
+      {
+		  "url": "https://zenith-devv.github.io/jstris-plus-sfxpacks/n3twork_tetris/retro/retrob2btspin1.wav",
+		  "b2b": true,
+		  "override": true
+      }
+    ],
+    "TSPIN_DOUBLE": [
+      {
+		  "url": "https://zenith-devv.github.io/jstris-plus-sfxpacks/n3twork_tetris/retro/retrob2btspin2.wav",
+		  "b2b": true,
+		  "override": true
+      }
+    ],
+    "TSPIN_TRIPLE": [
+      {
+		  "url": "https://zenith-devv.github.io/jstris-plus-sfxpacks/n3twork_tetris/retro/retrob2btspin3.wav",
+		  "b2b": true,
+		  "override": true
+      }
+    ],
+	"CLEAR4": [
+      {
+		  "url": "https://zenith-devv.github.io/jstris-plus-sfxpacks/n3twork_tetris/retro/Retro_Clear4_B2B.wav",
+		  "b2b": true,
+		  "override": true
+      }
+    ]
+  }
+}
