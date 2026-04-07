@@ -4,7 +4,6 @@
   "hold": "https://zenith-devv.github.io/jstris-plus-sfxpacks/n3twork_tetris/minimal/Minimal_Hold.wav",
   "lock": "https://zenith-devv.github.io/jstris-plus-sfxpacks/n3twork_tetris/minimal/Minimal_Lock.wav",
   "died": "https://zenith-devv.github.io/jstris-plus-sfxpacks/n3twork_tetris/minimal/Minimal_GameOver_Lose.wav",
-  "golive": "https://zenith-devv.github.io/jstris-plus-sfxpacks/n3twork_tetris/minimal/go.wav",
   "scoring": {
 	  "CLEAR1": "https://zenith-devv.github.io/jstris-plus-sfxpacks/n3twork_tetris/minimal/Minimal_Clear1.wav",
 	  "CLEAR2": "https://zenith-devv.github.io/jstris-plus-sfxpacks/n3twork_tetris/minimal/Minimal_Clear2.wav",

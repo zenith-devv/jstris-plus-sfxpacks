@@ -4,7 +4,6 @@
   "hold": "https://zenith-devv.github.io/jstris-plus-sfxpacks/n3twork_tetris/electro/Electro_Hold.wav",
   "lock": "https://zenith-devv.github.io/jstris-plus-sfxpacks/n3twork_tetris/electro/Electro_Lock.wav",
   "died": "https://zenith-devv.github.io/jstris-plus-sfxpacks/n3twork_tetris/electro/Electro_GameOver_Lose.wav",
-  "golive": "https://zenith-devv.github.io/jstris-plus-sfxpacks/n3twork_tetris/electro/go.wav",
   "scoring": {
 	  "CLEAR1": "https://zenith-devv.github.io/jstris-plus-sfxpacks/n3twork_tetris/electro/Electro_Clear1.wav",
 	  "CLEAR2": "https://zenith-devv.github.io/jstris-plus-sfxpacks/n3twork_tetris/electro/Electro_Clear2.wav",
