@@ -35,79 +35,79 @@
     
 	"TSPIN_MINI_SINGLE": [
       {
-		  "url": "https://ecdldaiiere.github.io/Eddiez-Soundz/8bit_tspinsingle.mp3",
+		  "url": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_friends/voice_packs/pajitnov/vo_tspinsingle.mp3",
 		  "b2b": false,
 		  "override": false      
       },
       {
-        "url": "https://ecdldaiiere.github.io/Eddiez-Soundz/8bit_b2btspin.mp3",
+        "url": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_friends/voice_packs/pajitnov/vo_b2btspin.mp3",
         "b2b": true,
         "override": false
       }
     ],
     "TSPIN_MINI": [
       {
-		  "url": "https://ecdldaiiere.github.io/Eddiez-Soundz/8bit_tspinmini.mp3",
+		  "url": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_friends/voice_packs/pajitnov/vo_tspinmini.mp3",
 		  "b2b": false,
 		  "override": false      
       },
       {
-        "url": "https://ecdldaiiere.github.io/Eddiez-Soundz/8bit_b2btspin.mp3",
+        "url": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_friends/voice_packs/pajitnov/vo_b2btspin.mp3",
         "b2b": true,
         "override": false
       }
     ],
     "TSPIN_SINGLE": [
       {
-		  "url": "https://ecdldaiiere.github.io/Eddiez-Soundz/8bit_tspinsingle.mp3",
+		  "url": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_friends/voice_packs/pajitnov/vo_tspinsingle.mp3",
 		  "b2b": false,
 		  "override": false
       },
       {
-        "url": "https://ecdldaiiere.github.io/Eddiez-Soundz/8bit_b2btspin.mp3",
+        "url": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_friends/voice_packs/pajitnov/vo_b2btspin.mp3",
         "b2b": true,
         "override": false
       }
     ],
     "TSPIN_DOUBLE": [
       {
-		  "url": "https://ecdldaiiere.github.io/Eddiez-Soundz/8bit_tspindouble.mp3",
+		  "url": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_friends/voice_packs/pajitnov/vo_tspindouble.mp3",
 		  "b2b": false,
 		  "override": false
       },
       {
-        "url": "https://ecdldaiiere.github.io/Eddiez-Soundz/8bit_b2btspin.mp3",
+        "url": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_friends/voice_packs/pajitnov/vo_b2btspin.mp3",
         "b2b": true,
         "override": false
       }
     ],
     "TSPIN_TRIPLE": [
       {
-		  "url": "https://ecdldaiiere.github.io/Eddiez-Soundz/8bit_tspintriple.mp3",
+		  "url": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_friends/voice_packs/pajitnov/vo_tspintriple.mp3",
 		  "b2b": false,
 		  "override": false
       },
       {
-        "url": "https://ecdldaiiere.github.io/Eddiez-Soundz/8bit_b2btspin.mp3",
+        "url": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_friends/voice_packs/pajitnov/vo_b2btspin.mp3",
         "b2b": true,
         "override": false
       }
     ],
 	"CLEAR4": [
       {
-		  "url": "https://ecdldaiiere.github.io/Eddiez-Soundz/8bit_clear4.mp3",
+		  "url": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_friends/voice_packs/pajitnov/vo_tetrs.mp3",
 		  "b2b": false,
 		  "override": false
       },
       {
-        "url": "https://ecdldaiiere.github.io/Eddiez-Soundz/8bit_b2btetris.mp3",
+        "url": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_friends/voice_packs/pajitnov/vo_b2btetrs.mp3",
         "b2b": true,
         "override": false
       }
     ],
     "CLEAR3": [
       {
-		  "url": "https://ecdldaiiere.github.io/Eddiez-Soundz/8bit_clear3.mp3",
+		  "url": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_friends/voice_packs/pajitnov/vo_lne03.mp3",
 		  "b2b": false,
 		  "override": false
 
@@ -115,7 +115,7 @@
     ],
     "CLEAR2": [
       {
-		  "url": "https://ecdldaiiere.github.io/Eddiez-Soundz/8bit_clear2.mp3",
+		  "url": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_friends/voice_packs/pajitnov/vo_lne02.mp3",
 		  "b2b": false,
 		  "override": false
 
