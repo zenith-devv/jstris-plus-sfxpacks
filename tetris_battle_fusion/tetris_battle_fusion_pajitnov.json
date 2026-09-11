@@ -26,11 +26,11 @@
 	  "CLEAR4": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_battle_fusion/FX_LNE04.ogg",
 	  "TSPIN_MINI": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_battle_fusion/FX_TSPIN.ogg",
 	  "TSPIN": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_battle_fusion/FX_TSPIN.ogg",
-	  "TSPIN_MINI_SINGLE": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_battle_fusion/tftspin1.mp3",
-	  "TSPIN_SINGLE": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_battle_fusion/tbftspin1.mp3",
-	  "TSPIN_DOUBLE": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_battle_fusion/tbftspin2.mp3",
-	  "TSPIN_TRIPLE": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_battle_fusion/tbftspin3.mp3",
-	  "PERFECT_CLEAR": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_battle_fusion/FX_WIN.ogg"
+	  "TSPIN_MINI_SINGLE": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_battle_fusion/tftspin1.ogg",
+	  "TSPIN_SINGLE": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_battle_fusion/tbftspin1.ogg",
+	  "TSPIN_DOUBLE": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_battle_fusion/tbftspin2.ogg",
+	  "TSPIN_TRIPLE": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_battle_fusion/tbftspin3.ogg",
+	  "PERFECT_CLEAR": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_battle_fusion/SFX_UNLOCK.ogg"
   },
   "specialScoring": {
 
