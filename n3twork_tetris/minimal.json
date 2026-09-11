@@ -1,5 +1,5 @@
 {
-  "name": "Minimal Sound Pack",
+  "name": "N3TWORK Tetris Minimal Sound Pack",
   "harddrop": "https://zenith-devv.github.io/jstris-plus-sfxpacks/n3twork_tetris/minimal/Minimal_Lock.wav",
   "hold": "https://zenith-devv.github.io/jstris-plus-sfxpacks/n3twork_tetris/minimal/Minimal_Hold.wav",
   "lock": "https://zenith-devv.github.io/jstris-plus-sfxpacks/n3twork_tetris/minimal/Minimal_Lock.wav",
@@ -18,12 +18,12 @@
 	  "PERFECT_CLEAR": "https://zenith-devv.github.io/jstris-plus-sfxpacks/n3twork_tetris/minimal/Minimal_ClearAll.wav"
   },
   "specialScoring": {
-    
+
 	"TSPIN_MINI_SINGLE": [
       {
 		  "url": "https://zenith-devv.github.io/jstris-plus-sfxpacks/n3twork_tetris/minimal/b2btspin1.wav",
 		  "b2b": true,
-		  "override": true      
+		  "override": true
       }
     ],
     "TSPIN_SINGLE": [

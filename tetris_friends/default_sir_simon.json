@@ -1,19 +1,20 @@
 {
-  "name": "Tetris Friends Sound Pack",
+  "name": "Tetris Friends Default (+ Sir Simon VO) Sound Pack",
   "harddrop": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_friends/default/fx_hrddp.mp3",
   "comboTones": [
-    null, "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_friends/default/fx_combo01.mp3", 
-    "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_friends/default/fx_combo02.mp3", 
-    "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_friends/default/fx_combo03.mp3", 
-    "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_friends/default/fx_combo04.mp3", 
-    "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_friends/default/fx_combo05.mp3", 
-    "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_friends/default/fx_combo06.mp3", 
+    null, "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_friends/default/fx_combo01.mp3",
+    "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_friends/default/fx_combo02.mp3",
+    "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_friends/default/fx_combo03.mp3",
+    "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_friends/default/fx_combo04.mp3",
+    "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_friends/default/fx_combo05.mp3",
+    "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_friends/default/fx_combo06.mp3",
     "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_friends/default/fx_combo07.mp3"
   ],
   "hold": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_friends/default/fx_hold.mp3",
   "move": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_friends/default/fx_fall.mp3",
   "rotate": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_friends/default/fx_rta01.mp3",
-  "lock": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_friends/default/fx_hrddp.mp3",
+  "land": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_friends/default/fx_lnd01.mp3",
+  "lock": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_friends/default/fx_lck01.mp3",
   "died": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_friends/default/fx_lose.mp3",
   "ready": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_friends/default/fx_tick.mp3",
   "go": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_friends/default/fx_go.mp3",
@@ -32,12 +33,12 @@
 	  "PERFECT_CLEAR": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_friends/default/fx_win.mp3"
   },
   "specialScoring": {
-    
+
 	"TSPIN_MINI_SINGLE": [
       {
 		  "url": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_friends/voice_packs/sir_simon/vo_tspinsingle.mp3",
 		  "b2b": false,
-		  "override": false      
+		  "override": false
       },
       {
         "url": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_friends/voice_packs/sir_simon/vo_b2btspin.mp3",
@@ -49,7 +50,7 @@
       {
 		  "url": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_friends/voice_packs/sir_simon/vo_tspinmini.mp3",
 		  "b2b": false,
-		  "override": false      
+		  "override": false
       },
       {
         "url": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_friends/voice_packs/sir_simon/vo_b2btspin.mp3",

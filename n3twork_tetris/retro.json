@@ -1,5 +1,5 @@
 {
-  "name": "Retro Sound Pack",
+  "name": "N3TWORK Tetris Retro Sound Pack",
   "harddrop": "https://zenith-devv.github.io/jstris-plus-sfxpacks/n3twork_tetris/retro/Retro_Lock.wav",
   "hold": "https://zenith-devv.github.io/jstris-plus-sfxpacks/n3twork_tetris/retro/Retro_Hold.wav",
   "lock": "https://zenith-devv.github.io/jstris-plus-sfxpacks/n3twork_tetris/retro/Retro_Lock.wav",
@@ -18,12 +18,12 @@
 	  "PERFECT_CLEAR": "https://zenith-devv.github.io/jstris-plus-sfxpacks/n3twork_tetris/retro/Retro_ClearAll.wav"
   },
   "specialScoring": {
-    
+
 	"TSPIN_MINI_SINGLE": [
       {
 		  "url": "https://zenith-devv.github.io/jstris-plus-sfxpacks/n3twork_tetris/retro/retrob2btspin1.wav",
 		  "b2b": true,
-		  "override": true      
+		  "override": true
       }
     ],
     "TSPIN_SINGLE": [

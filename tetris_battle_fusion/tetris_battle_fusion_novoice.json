@@ -1,0 +1,35 @@
+{
+  "name": "Tetris Battle Fusion Sound Pack",
+  "harddrop": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_battle_fusion/FX_HRDDP.ogg",
+  "comboTones": [
+    null, "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_battle_fusion/FX_COMBO01.ogg",
+    "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_battle_fusion/FX_COMBO02.ogg",
+    "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_battle_fusion/FX_COMBO03.ogg",
+    "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_battle_fusion/FX_COMBO04.ogg",
+    "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_battle_fusion/FX_COMBO05.ogg",
+    "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_battle_fusion/FX_COMBO06.ogg",
+    "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_battle_fusion/FX_COMBO07.ogg"
+  ],
+  "hold": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_battle_fusion/FX_HOLD.ogg",
+  "move": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_battle_fusion/FX_FALL.ogg",
+  "rotate": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_battle_fusion/FX_RTA01.ogg",
+  "land": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_battle_fusion/FX_LND01.ogg",
+  "lock": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_battle_fusion/FX_LCK01.ogg",
+  "died": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_battle_fusion/FX_LOSE.ogg",
+  "ready": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_battle_fusion/FX_TICK.ogg",
+  "go": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_battle_fusion/FX_GO.ogg",
+  "golive": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_battle_fusion/FX_GO.ogg",
+  "scoring": {
+	  "CLEAR1": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_battle_fusion/FX_LNE01.ogg",
+	  "CLEAR2": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_battle_fusion/FX_LNE02.ogg",
+	  "CLEAR3": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_battle_fusion/FX_LNE03.ogg",
+	  "CLEAR4": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_battle_fusion/FX_LNE04.ogg",
+	  "TSPIN_MINI": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_battle_fusion/FX_TSPIN.ogg",
+	  "TSPIN": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_battle_fusion/FX_TSPIN.ogg",
+	  "TSPIN_MINI_SINGLE": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_battle_fusion/tftspin1.mp3",
+	  "TSPIN_SINGLE": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_battle_fusion/tbftspin1.mp3",
+	  "TSPIN_DOUBLE": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_battle_fusion/tbftspin2.mp3",
+	  "TSPIN_TRIPLE": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_battle_fusion/tbftspin3.mp3",
+	  "PERFECT_CLEAR": "https://zenith-devv.github.io/jstris-plus-sfxpacks/tetris_battle_fusion/FX_WIN.ogg"
+  }
+}
